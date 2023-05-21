@@ -1,0 +1,7 @@
+Cryptokey:
+  description: Describes a DNSSEC cryptographic key
+  example:
+    privatekey: privatekey
+    cds:
+    - cds
+    - cds
